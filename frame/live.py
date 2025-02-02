@@ -6,6 +6,7 @@ import logging
 import time
 import json
 import asyncio
+import base64
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, handlers=[
@@ -28,8 +29,9 @@ class LiveCaptureSend:
                 current_time = time.time()
                 if current_time - reference_time  >= 0.14:
                     snapshot = capture.get_camera_current_frame()
-                    image_string = capture.get_image_string(snapshot)
-                    message = Message(message="vision_infer", content=str(image_string))
+                    image_string = capture.get_image_bytes(snapshot)
+                    encoded_string = base64.b64encode(image_string).decode('utf-8')
+                    message = Message(message="vision_infer", content=encoded_string)
                     json_message = (json.dumps(message.__dict__, indent=4)).encode("utf-8")
                     await nanos.send_message(json_message)
                 await asyncio.sleep(0.01)

@@ -1,6 +1,5 @@
 import logging
 from dataclasses import dataclass
-from numpy import byte
 from pynng import Pair0
 
 logger = logging.getLogger(__name__)

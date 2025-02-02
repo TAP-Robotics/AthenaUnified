@@ -1,0 +1,450 @@
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type Message is not JSON serializable
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:messages.nanos:An error occured when sending message to pair: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+ERROR:frame.live:An error occured in the capture loop: Cannot send type str. Maybe you left out a ".encode()" somewhere?
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:messages.nanos:An error occured when sending message to pair: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:frame.live:An error occured in the capture loop: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:messages.nanos:An error occured when sending message to pair: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:frame.live:An error occured in the capture loop: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:messages.nanos:An error occured when sending message to pair: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:frame.live:An error occured in the capture loop: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:messages.nanos:An error occured when sending message to pair: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+ERROR:frame.live:An error occured in the capture loop: invalid literal for int() with base 10: '{\n    "message": "vision_infer",\n    "content": "b\'RIFF\\\\xae\\\\t\\\\x00\\\\x00WEBPVP8 \\\\xa2\\\\t\\\\x00\\\\x000d\\\\x00\\\\x9d\\\\x01*\\\\x80\\\\x02\\\\xe0\\\\x01>\\\\x91H\\\\xa3L\\\\xa5\\\\x
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+ERROR:frame.live:An error occured in the capture loop: 'FrameCapture' object has no attribute 'get_image_string'
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+ERROR:frame.live:An error occured in the capture loop: Object of type bytes is not JSON serializable
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+ERROR:frame.live:An error occured in the capture loop: name 'image_str' is not defined
+ERROR:frame.live:An error occured in the capture loop: name 'image_str' is not defined
+ERROR:frame.live:An error occured in the capture loop: name 'image_str' is not defined
+ERROR:frame.live:An error occured in the capture loop: name 'image_str' is not defined
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection
+INFO:frame.live:Intializing live capture sender
+INFO:frame.capture:Starting OpenCV video capture
+INFO:messages.nanos:Initializing Pair to Pair connection

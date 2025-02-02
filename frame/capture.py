@@ -29,7 +29,7 @@ class FrameCapture:
             logger.info("Could not get current camera feed")
             raise
 
-    def get_image_string(self, image: MatLike) -> bytes:
+    def get_image_bytes(self, image: MatLike):
         """Converts a MatLike frame into a WebP image for transfer"""
         try:
             quality = [cv.IMWRITE_WEBP_QUALITY, 75]
@@ -38,8 +38,7 @@ class FrameCapture:
                 logger.error("Failed to encode image")
                 raise ValueError("Image encoding error")
 
-            image_string = encoded_image.tobytes()
-            return image_string
+            return encoded_image
         except Exception as e:
             logger.error(f"Error during camera frame encoding: {e}")
             raise
