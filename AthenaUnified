@@ -1,0 +1,15 @@
+INFO:frame.capture:Starting OpenCV video capture
+ERROR:pynng.nng:Synchronous dial failed; attempting asynchronous now
+Traceback (most recent call last):
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 391, in dial
+    return self.dial(address, block=True)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 388, in dial
+    return self._dial(address, flags=0)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\nng.py", line 407, in _dial
+    check_err(ret)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
+    raise exc(string, err)
+pynng.exceptions.ConnectionRefused: Connection refused

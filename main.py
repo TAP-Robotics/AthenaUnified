@@ -1,22 +1,19 @@
 from messages import nanos
-from frame import capture
-import asyncio
-import time
+from frame import capture, live
+import logging
+from multiprocessing import Process
 
-capture_handler = capture.FrameCapture()
 
-nanos_socket = nanos.Nanos()
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO, handlers=[
+    logging.FileHandler("AthenaUnified"),
+    logging.StreamHandler()
+])
 
-async def cv_loop():
-    start_time = time.time()
-    while True:
-        current_time = time.time()
-        if current_time - start_time >= 0.14:
-            print(capture_handler.get_camera_current_frame())
 
-        await asyncio.sleep(0.01) # This would apparently reduce CPU load.
-def main():
-    print("Hello World")
 
 if __name__ == "__main__":
-    asyncio.run(cv_loop())
+    live_caputre_send = live.LiveCaptureSend()
+    cv_proc = Process(target=live_caputre_send.main_loop_runner)
+    cv_proc.start()
+    cv_proc.join()
