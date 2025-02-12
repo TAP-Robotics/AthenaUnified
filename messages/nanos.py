@@ -24,10 +24,19 @@ class Nanos():
 		logger.info("Initializing Pair to Pair connection")
 		self.socket = Pair0()
 		self.socket.dial("tcp://127.0.0.1:7207")
+		logger.info("Pair to Pair initialized")
 
 	async def send_message(self, message: bytes) -> None:
 		try:
 			self.socket.send(message)
 		except Exception as e:
 			logger.error(f"An error occured when sending message to pair: {e}")
+			raise
+	
+	async def receive_message(self) -> bytes:
+		try:
+			message = self.socket.recv()
+			return message
+		except Exception as e:
+			logger.error(f"An error occurred while receiving message: {e}")
 			raise

@@ -3,14 +3,11 @@ from frame import capture, live
 import logging
 from multiprocessing import Process
 
-
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, handlers=[
     logging.FileHandler("AthenaUnified"),
     logging.StreamHandler()
 ])
-
-
 
 if __name__ == "__main__":
     live_caputre_send = live.LiveCaptureSend()

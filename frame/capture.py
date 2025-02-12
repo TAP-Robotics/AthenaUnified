@@ -32,7 +32,7 @@ class FrameCapture:
     def get_image_bytes(self, image: MatLike):
         """Converts a MatLike frame into a WebP image for transfer"""
         try:
-            quality = [cv.IMWRITE_WEBP_QUALITY, 75]
+            quality = [cv.IMWRITE_WEBP_QUALITY, 95]
             success, encoded_image = cv.imencode(".webp", image, quality)
             if not success:
                 logger.error("Failed to encode image")

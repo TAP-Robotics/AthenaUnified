@@ -13,3 +13,6 @@ Traceback (most recent call last):
   File "C:\Users\josti\Desktop\01 Projects\TAP\AthenaUnified\Lib\site-packages\pynng\exceptions.py", line 202, in check_err
     raise exc(string, err)
 pynng.exceptions.ConnectionRefused: Connection refused
+INFO:__main__:Starting Live Capture Process
+INFO:frame.live:Initializing live capture sender
+INFO:frame.live:Starting live capture process
